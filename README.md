@@ -20,7 +20,7 @@ Evaluated the clustering results using inertia and silhouette score for differen
 
 ### Results
 ##### Cluster Labels:
--Each customer is assigned a cluster label indicating the segment to which they belong.
+Each customer is assigned a cluster label indicating the segment to which they belong.
 ##### Cluster Profiles:
 Average feature values for each cluster are computed to understand the characteristics of each segment.
 ##### Visualizations:
